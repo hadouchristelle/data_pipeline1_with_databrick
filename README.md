@@ -33,13 +33,13 @@ This script reads raw data from the defined sources and writes it into a delta t
 Read data from the delta table in the bronze layer, then clean and transform the data to ensure its quality and reliability.The scripts are available in the lakehouse folder
 <img width="2608" height="1102" alt="image" src="https://github.com/user-attachments/assets/f24eccd0-6d7d-4190-9716-0caebe618418" />
 
-Orchestrated silver layer files to automate processing and prepare the gold layer
+### Orchestrated silver layer files to automate processing and prepare the gold layer
 <img width="2710" height="1740" alt="image" src="https://github.com/user-attachments/assets/adbefc43-2664-4932-8020-2d05ea738049" />
 ## c-Gold layer
-Read delta tables from the silver layer ,performed aggregations and joins across tables to build the final data model.The scripts are available in the lakehouse folder.
+### Read delta tables from the silver layer ,performed aggregations and joins across tables to build the final data model.The scripts are available in the lakehouse folder.
 <img width="2662" height="884" alt="image" src="https://github.com/user-attachments/assets/bb39a67e-ec38-4c2a-8ff9-1246b0ffdcf0" />
 
-orchestration gold layer file
+### orchestration gold layer file
 <img width="2196" height="1696" alt="image" src="https://github.com/user-attachments/assets/1e1b5998-3713-464c-9c1f-ffc519341a4c" />
 
 
