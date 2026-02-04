@@ -35,7 +35,9 @@ Read data from the delta table in the bronze layer, then clean and transform the
 
 ### Orchestrated silver layer files to automate processing and prepare the gold layer
 <img width="2710" height="1740" alt="image" src="https://github.com/user-attachments/assets/adbefc43-2664-4932-8020-2d05ea738049" />
+
 ## c-Gold layer
+
 ### Read delta tables from the silver layer ,performed aggregations and joins across tables to build the final data model.The scripts are available in the lakehouse folder.
 <img width="2662" height="884" alt="image" src="https://github.com/user-attachments/assets/bb39a67e-ec38-4c2a-8ff9-1246b0ffdcf0" />
 
